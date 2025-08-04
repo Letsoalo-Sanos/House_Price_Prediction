@@ -18,7 +18,7 @@ To run this notebook, you need the following Python libraries:
 
 ---
 
-## 🧹 Data Preprocessing
+## Data Preprocessing
 
 Steps included:
 
@@ -28,7 +28,7 @@ Steps included:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 - Univariate and bivariate analysis using Seaborn and Matplotlib
 - Box plots, histograms, KDE plots
