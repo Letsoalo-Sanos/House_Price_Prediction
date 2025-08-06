@@ -86,7 +86,7 @@ The models were evaluated using:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas, NumPy
